@@ -1,19 +1,28 @@
- <h3 align="center">Hi there 👋</>
+# Hi 👋, I'm Abdelrahman
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-<h3 align="center">
-  Welcome to Abdelrahman Mohamed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-- 🏢 I'm a Frontend Engineer.
+### Frontend Developer
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelrahmanmohamed78&label=Profile views&color=0e75b6&style=flat" alt="Abdelrahmanmohamed78" /> </p>
 
-- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelrahmanmohamed78" alt="Abdelrahmanmohamed78" /></a> </p>
+
+- 👨‍💻 All of my projects are available at **[https://abdelrahman-portfolio-app.netlify.app](https://abdelrahman-portfolio-app.netlify.app)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Abdelrahmanmohamed78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Abdelrahmanmohamed78" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelrahmanmohamed78&show_icons=true&locale=en&layout=compact" alt="Abdelrahmanmohamed78" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdelrahmanmohamed78&show_icons=true&locale=en" alt="Abdelrahmanmohamed78" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahmanmohamed78&" alt="Abdelrahmanmohamed78" /></p>
+
+
 
 - 👑 This Is My Official Account In GitHub You Can See My Projects.
 
