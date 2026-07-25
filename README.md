@@ -1,12 +1,8 @@
 # Hi 👋, I'm Abdelrahman
 
-### Frontend Developer
+### Frontend Developer | React.js Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdelrahmanmohamed78&label=Profile views&color=0e75b6&style=flat" alt="Abdelrahmanmohamed78" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdelrahmanmohamed78" alt="Abdelrahmanmohamed78" /></a> </p>
-
-- 👨‍💻 All of my projects are available at **[https://abdelrahman-portfolio-app.netlify.app](https://abdelrahman-portfolio-app.netlify.app)**
+- 👨‍💻 All of my projects are available at **[https://abdelrahman-portfolio-app.vercel.app](https://abdelrahman-portfolio-app.vercel.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +32,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
  </a>
  
- <a href="https://wa.me/+201001520321" target="_blank">
+ <a href="https://wa.me/+201036680001" target="_blank">
   <img src="https://img.shields.io/badge/Whatsapp-4dc95b?style=for-the-badge&logo=whatsapp&logoColor=white"/>
  </a>
  
