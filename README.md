@@ -1,4 +1,4 @@
-# Hi, I'm Abdelrahman Mohamed 👋
+# Hi 👋, I'm Abdelrahman Mohamed
 
 ### Frontend Developer | React.js & Next.js
 
