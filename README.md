@@ -86,6 +86,10 @@ I have experience working with **React.js, Next.js, TypeScript, JavaScript, and 
 
 # 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahmanmohamed78)
+
+# 
+
 ### 💬 "Building interfaces, solving problems, and continuously learning."
 
 ⭐ Feel free to explore my repositories and check out my projects!
