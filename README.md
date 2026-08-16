@@ -53,13 +53,13 @@ I have experience working with **React.js, Next.js, TypeScript, JavaScript, and 
 
 ### State Management & Tools
 
-<p align="left">
-  
+<p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/github" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="git" width="40" height="40"/></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/vscode" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="git" width="40" height="40"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/vercel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="git" width="40" height="40"/></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/github" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="git" width="40" height="40"/></a>
 </p>
 
 ### Forms & Validation
