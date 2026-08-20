@@ -20,15 +20,16 @@ I have experience working with **React.js, Next.js, TypeScript, JavaScript, and 
  <a href="https://linkedin.com/in/abdelrahman-mohamed-79baa51b6" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/></a>  
 </p>
 
-# 
+<br/>
 
 ## 🚀 About Me
 
-- 🎓 Computer and Information Science graduate from **Mansoura University**
-- ⚛️ Specialized in **React.js and Next.js**
-- 🌱 Currently improving my skills in modern frontend development
-- 🧩 Interested in building scalable and reusable UI components
-- 🚀 Passionate about performance, responsive design, and clean code
+- 🎓 **Education:** Computer Science Graduate from Mansoura University
+- 💻 **Specialization:** Frontend Development with **React.js, Next.js, & TypeScript**
+- 🛠️ **Architecture:** Focused on building **scalable, reusable UI components** and managing complex application state
+- ⚡ **Engineering Principles:** Driven by clean code architecture, performance optimization, and responsive design
+- 🎯 **Current Goal:** Open for **Frontend Developer** opportunities
+
 
 <br/>
 
