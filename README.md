@@ -13,9 +13,10 @@ I have experience working with **React.js, Next.js, TypeScript, JavaScript, and 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Abdelrahmanmohamed78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Abdelrahmanmohamed78" height="30" width="40" /></a>
-<a href="https://wa.me/201036680001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Abdelrahmanmohamed78" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelrahman-mohamed-79baa51b6" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="30"/></a>  
+<a href="https://github.com/Abdelrahmanmohamed78" target="blank"><<img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/ef38a380-1042-4e09-a2bc-53fc5ef42f45" /></a>
+<a href="https://github.com/Abdelrahmanmohamed78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Abdelrahmanmohamed78" height="40" width="40" /></a>
+<a href="https://wa.me/201036680001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Abdelrahmanmohamed78" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/abdelrahman-mohamed-79baa51b6" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/></a>  
 </p>
 
 # 
