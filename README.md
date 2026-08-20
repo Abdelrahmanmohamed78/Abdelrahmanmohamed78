@@ -25,7 +25,6 @@ I have experience working with **React.js, Next.js, TypeScript, JavaScript, and 
 ## 🚀 About Me
 
 - 🎓 Computer and Information Science graduate from **Mansoura University**
-- 💻 Frontend Developer with **1 year of experience**
 - ⚛️ Specialized in **React.js and Next.js**
 - 🌱 Currently improving my skills in modern frontend development
 - 🧩 Interested in building scalable and reusable UI components
