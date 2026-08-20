@@ -55,7 +55,10 @@ I have experience working with **React.js, Next.js, TypeScript, JavaScript, and 
 ### State Management & Tools
 
 <p align="left"> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/reactquery" target="_blank" rel="noreferrer"><img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/d6178e18-1628-480a-867f-69c7d70d232a" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/zod" target="_blank" rel="noreferrer"><img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/6063f1d9-feac-4115-9300-863051b84688" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/reacthookform" target="_blank" rel="noreferrer"><img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/44efdd64-ae3b-4225-a1ab-419487876fae" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/vite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vite" alt="vite" width="40" height="40"/></a>
