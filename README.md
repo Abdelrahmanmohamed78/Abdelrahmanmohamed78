@@ -76,19 +76,6 @@ I have experience working with **React.js, Next.js, TypeScript, JavaScript, and 
 
 - 👑 This Is My Official Account In GitHub You Can See My Projects.
 
-### Connect with Me :
-<div>
- <a href="mailto:abdomohamed782002@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
- </a>
- <a href="https://www.linkedin.com/in/abdelrahman-mohamed-79baa51b6/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
- </a>
- <a href="https://wa.me/+201036680001" target="_blank">
-  <img src="https://img.shields.io/badge/Whatsapp-4dc95b?style=for-the-badge&logo=whatsapp&logoColor=white"/>
- </a>
-</div>
-
 # 
 
 ### 💬 "Building interfaces, solving problems, and continuously learning."
